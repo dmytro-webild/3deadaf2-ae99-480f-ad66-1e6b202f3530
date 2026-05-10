@@ -61,7 +61,7 @@ export default function LandingPage() {
       description="Crafted with passion, baked to perfection in our stone ovens using the freshest local ingredients."
       mediaItems={[
         {
-          imageSrc: "http://img.b2bpic.net/free-photo/side-view-chef-baking-delicious-pizza_23-2150134248.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/side-view-chef-baking-delicious-pizza_23-2150134248.jpg?_wi=1",
           imageAlt: "Wood fired pizza",
         },
         {
@@ -118,7 +118,7 @@ export default function LandingPage() {
             },
           ],
           reverse: false,
-          imageSrc: "http://img.b2bpic.net/free-photo/side-view-chef-baking-delicious-pizza_23-2150134248.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/side-view-chef-baking-delicious-pizza_23-2150134248.jpg?_wi=2",
           imageAlt: "delicious pizza slice closeup",
         },
         {
@@ -160,7 +160,7 @@ export default function LandingPage() {
             },
           ],
           reverse: false,
-          imageSrc: "http://img.b2bpic.net/free-photo/top-view-mushroom-pizza-with-tomatoes-olives-mushrooms-with-flour-grey-desk-pizza-dough-italian-food_140725-22910.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/top-view-mushroom-pizza-with-tomatoes-olives-mushrooms-with-flour-grey-desk-pizza-dough-italian-food_140725-22910.jpg?_wi=1",
           imageAlt: "delicious pizza slice closeup",
         },
       ]}
@@ -179,7 +179,7 @@ export default function LandingPage() {
           id: "1",
           name: "Margherita",
           price: "$14",
-          imageSrc: "http://img.b2bpic.net/free-photo/top-view-mushroom-pizza-with-tomatoes-olives-mushrooms-with-flour-grey-desk-pizza-dough-italian-food_140725-22910.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/top-view-mushroom-pizza-with-tomatoes-olives-mushrooms-with-flour-grey-desk-pizza-dough-italian-food_140725-22910.jpg?_wi=2",
         },
         {
           id: "2",
